@@ -44,5 +44,31 @@
     "🌟 대단해요! 이 노력이 결실을 맺을 거예요!",
     "🎯 목표 달성! 오늘 하루도 수고했어요!"
   ],
+  "dday_cheer_messages": [
+    { "line1": "오늘도", "line2": "포기하지 말고", "line3": "한 걸음씩" },
+    { "line1": "조금씩", "line2": "쌓이면 반드시", "line3": "실력이 됩니다" },
+    { "line1": "지금의", "line2": "10분도 충분히", "line3": "의미 있어요" },
+    { "line1": "끝까지", "line2": "버티는 사람이", "line3": "이깁니다" },
+    { "line1": "어제보다", "line2": "한 문제 더", "line3": "성장했어요" },
+    { "line1": "불안해도", "line2": "계속 가면", "line3": "길이 됩니다" }
+  ],
+  "texts": {
+    "splash.title": "수능타이머",
+    "splash.subtitle": "2026 수능까지 함께해요",
+    "splash.dday.prefix": "수능까지",
+    "splash.dday.suffix": "일 남았습니다",
+    "dday.today_quote.fallback": "오늘도 화이팅! 💪",
+    "notification.morning.fallback": "오늘도 한 걸음씩! 수능까지 화이팅 🔥",
+    "notification.goal.fallback": "🎉 오늘 목표 달성! 정말 대단해요 💪",
+    "help.closing.title": "완벽한 하루보다 꾸준한 하루가 더 중요해요.",
+    "help.closing.subtitle": "기록하고, 확인하고, 다시 이어가면 충분해요."
+  },
+  "widget": {
+    "small_title": "수능 D-day",
+    "medium_title": "수능 D-day",
+    "message_lines": ["오늘도", "목표를 향해", "한 걸음씩"],
+    "background_hex": "1a0533",
+    "accent_hex": "C084FC"
+  },
   "notice": ""
 }
